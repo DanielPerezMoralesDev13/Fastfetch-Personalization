@@ -8,7 +8,7 @@
 **GitHub:** *[DanielPerezMoralesDev13](https://github.com/DanielPerezMoralesDev13 "https://github.com/DanielPerezMoralesDev13")*
 **Correo:** *`danielperezdev@proton.me`*
 
-*Este archivo de configuración está diseñado para personalizar la salida de Fastfetch, una herramienta que muestra información del sistema en la terminal. Esta configuración se adapta para ser utilizada con el terminal Kitty, debido a la falta de soporte para protocolos de imagen en Alacritty.*
+*Este fichero de configuración está diseñado para personalizar la salida de Fastfetch, una herramienta que muestra información del sistema en la terminal. Esta configuración se adapta para ser utilizada con el terminal Kitty, debido a la falta de soporte para protocolos de imagen en Alacritty.*
 
 ## ***Contenido de la Configuración***
 
@@ -200,7 +200,7 @@
    *Aquí, el `{}` se reemplaza por el número real de monitores conectados en el sistema. Si el sistema detecta dos monitores, el texto final podría ser "Monitor 2".*
 
 4. **Flexibilidad en la Configuración:**
-   *El uso de `{}` permite que las herramientas de línea de comandos adapten su salida a la situación actual sin necesidad de editar el archivo de configuración manualmente. Esto facilita la personalización dinámica basada en el estado del sistema.*
+   *El uso de `{}` permite que las herramientas de línea de comandos adapten su salida a la situación actual sin necesidad de editar el fichero de configuración manualmente. Esto facilita la personalización dinámica basada en el estado del sistema.*
 
 ### ***Ejemplo Práctico***
 
